@@ -197,3 +197,18 @@ body::-webkit-scrollbar-thumb {
 /* End of Pricing*/
 
 /* RESPONSIVE */
+
+@media (min-width: 1600px) {
+  .pricing-rectangle {
+    top: 20%;
+    left: 17%;
+  }
+  .pricing-small-circle {
+    top: 16%;
+    right: 16%;
+  }
+  .pricing-large-circle {
+    bottom: 31%;
+    right: 15%;
+  }
+}

@@ -265,3 +265,23 @@ body::-webkit-scrollbar-thumb {
   opacity: 0.9;
 }
 /* End of Products */
+
+@media (min-width: 1600px) {
+  .products-content {
+    width: 90%;
+  }
+  .products-content-right img:nth-child(1) {
+    width: 60rem;
+    height: 80rem;
+  }
+  .products-content-right img:nth-child(2) {
+    width: 30rem;
+    top: 15%;
+    right: 33%;
+  }
+  .products-content-right img:nth-child(3) {
+    width: 40rem;
+    bottom: 15%;
+    right: 3%;
+  }
+}

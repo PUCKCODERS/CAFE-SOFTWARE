@@ -1393,3 +1393,56 @@ footer {
 /* End of Footer */
 
 /* End of Container */
+
+/* Responsive*/
+@media (min-width: 1600px) {
+  html {
+    font-size: 60%;
+  }
+  .navbar {
+    padding: 0 10rem;
+  }
+  .nav-items {
+    width: 55%;
+  }
+  .dropdown {
+    top: 4.5rem;
+  }
+  .services-wrapper {
+    width: 80%;
+  }
+
+  .services-bg-1 {
+    top: 6%;
+    right: 1%;
+  }
+
+  .services-bg-2 {
+    bottom: 10%;
+    left: 4%;
+  }
+
+  .projects-list {
+    width: 100%;
+  }
+
+  .templates-right img:nth-child(1) {
+    top: 50%;
+    width: 55rem;
+  }
+  .templates-right img:nth-child(2) {
+    top: 18%;
+    width: 45rem;
+    height: 60rem;
+  }
+
+  .templates-right img:nth-child(3) {
+    top: 30%;
+    width: 75rem;
+  }
+  .subcribe {
+    margin-top: -1rem;
+  }
+}
+
+/* End of Responsive*/

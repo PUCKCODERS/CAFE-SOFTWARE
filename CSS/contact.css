@@ -203,3 +203,10 @@ body::-webkit-scrollbar-thumb {
   transition: transform 0.3s;
 }
 /* End of Contact */
+
+@media (min-width: 1600px) {
+  .contact-circle {
+    bottom: 25%;
+    left: 15%;
+  }
+}
