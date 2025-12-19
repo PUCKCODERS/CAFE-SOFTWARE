@@ -285,3 +285,12 @@ body::-webkit-scrollbar-thumb {
     right: 3%;
   }
 }
+
+@media (min-width: 1440px) {
+  .promo-content {
+    width: 70%;
+  }
+  .products-content-right img:nth-child(2) {
+    right: 29%;
+  }
+}

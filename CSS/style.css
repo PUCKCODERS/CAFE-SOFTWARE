@@ -1445,4 +1445,55 @@ footer {
   }
 }
 
+@media (min-width: 1440px) {
+  html {
+    font-size: 60%;
+  }
+
+  .nav-items {
+    width: 70%;
+  }
+
+  .services-wrapper {
+    width: 80%;
+  }
+
+  .services-bg-1 {
+    top: 5%;
+    right: 1%;
+  }
+
+  .services-bg-2 {
+    bottom: 10%;
+    left: 4%;
+  }
+
+  .filter-nav {
+    width: 85%;
+  }
+
+  .projects-list {
+    width: 85%;
+  }
+
+  .templates-right img:nth-child(1) {
+    top: 50%;
+    width: 55rem;
+  }
+  .templates-right img:nth-child(2) {
+    top: 18%;
+    width: 45rem;
+    height: 60rem;
+  }
+
+  .templates-right img:nth-child(3) {
+    top: 30%;
+    width: 75rem;
+  }
+
+  .subcribe {
+    margin-top: -1rem;
+  }
+}
+
 /* End of Responsive*/

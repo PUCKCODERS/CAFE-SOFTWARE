@@ -171,3 +171,10 @@ body::-webkit-scrollbar-thumb {
     left: 32%;
   }
 }
+
+@media (min-width: 1440px) {
+  .account-circle {
+    bottom: 28%;
+    left: 33%;
+  }
+}

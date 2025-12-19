@@ -210,3 +210,10 @@ body::-webkit-scrollbar-thumb {
     left: 15%;
   }
 }
+
+@media (min-width: 1440px) {
+  .contact-circle {
+    bottom: 25%;
+    left: 15%;
+  }
+}

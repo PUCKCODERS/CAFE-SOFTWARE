@@ -212,3 +212,18 @@ body::-webkit-scrollbar-thumb {
     right: 15%;
   }
 }
+
+@media (min-width: 1440px) {
+  .pricing-rectangle {
+    top: 20%;
+    left: 14%;
+  }
+  .pricing-small-circle {
+    top: 16%;
+    right: 12%;
+  }
+  .pricing-large-circle {
+    bottom: 31%;
+    right: 12%;
+  }
+}
